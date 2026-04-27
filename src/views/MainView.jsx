@@ -13,7 +13,7 @@ export default function MainView() {
                 Página de nosotros
             </Link>
 
-            <Link to={`/parametro/${parametro}`} className="my-10  py-2 px-5 rounded-lg hover:bg-purple-600 text-white">
+            <Link to={`/parametro/${parametro}`} className="my-10 bg-purple-500 py-2 px-5 rounded-lg hover:bg-purple-600 text-white">
                 Página con parametros
             </Link>
 
