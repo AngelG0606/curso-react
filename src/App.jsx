@@ -78,6 +78,23 @@ function App() {
 
       </form>
 
+
+      <form 
+        className='space-y-4 shadow'
+      > 
+        <div>
+          <label htmlFor=""
+            className='block'
+          >Nombre Producto</label>
+
+          <input 
+            type="text" 
+            className='border border-gray-200 w-full py-2'  
+          />
+        </div>
+      </form>
+
+
       
     </>
   )
